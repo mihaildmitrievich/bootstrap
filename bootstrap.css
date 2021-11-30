@@ -1,0 +1,54 @@
+
+
+.conteiner-item {
+    max-width: 1400px;
+}
+
+#carouselExampleIndicators {
+    margin: 33px 0px 0px 120px;
+}
+.conteiner-item-text {
+    margin-left: 120px;
+}
+.item-text-title {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 34px;
+    line-height: 51px;
+    color: #22343D;
+}
+.item-text-subtitle {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    color: #22343D;
+}
+.carousel-indicators li{
+    width: 16px;
+    height: 16px;
+    background-color: #02897A;
+    border-radius: 50%;
+}
+.carousel-indicators {
+    right: 100px;
+    top: 370px;
+}
+.card-title {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 28px;
+    color: #22343D;
+}
+.card-text {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 40px;
+    color: #22343D;
+}
