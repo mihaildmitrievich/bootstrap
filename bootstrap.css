@@ -1,14 +1,8 @@
-
-
 .conteiner-item {
     max-width: 1400px;
 }
-
 #carouselExampleIndicators {
     margin: 33px 0px 0px 120px;
-}
-.conteiner-item-text {
-    margin-left: 120px;
 }
 .item-text-title {
     font-family: Poppins;
